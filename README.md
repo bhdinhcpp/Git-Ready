@@ -1,7 +1,7 @@
 
 Bryan Dinh
-
-
+https://github.com/bhdinhcpp/Git-Ready.git
+https://vimeo.com/1007937002?share=copy
 OBS 30.2.3 ; Visual Studio Code 1.93
 
 # Online Storefront
